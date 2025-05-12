@@ -1,8 +1,3 @@
-
-
-### ✅ **README.md**
-
-
 # 📊 University Rankings CSV Parser (C++)
 
 This project demonstrates how to parse a real-world CSV dataset using C++ with exception handling. It reads the **2012 world university rankings** dataset and stores each valid line into a vector of `UniversityRanking` objects.
